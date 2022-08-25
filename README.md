@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Downloads](https://cranlogs.r-pkg.org/badges/highfrequency)](https://cranlogs.r-pkg.org/badges/highfrequency)
