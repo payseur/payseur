@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
 - I am co-author on the R [highfrequency](https://github.com/jonathancornelissen/highfrequency) packgage     [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/highfrequency)](https://cranlogs.r-pkg.org/badges/grand-total/highfrequency)
 
-- [Slides](https://payseur.github.io/classes/econ_5120/) from my Northeastern Univeristy graduate Macro Economics course. 
